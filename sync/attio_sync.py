@@ -86,6 +86,14 @@ DEAL_FIELDS = {
     "critical_event": "critical_event_4",
     "comment": "comment",
     "created_at": "created_at",
+    "utm_source": "utm_source",
+    "utm_medium": "utm_medium",
+    "utm_campaign": "utm_campaign",
+    "first_page_visit": "first_page_visit",
+    "last_page_visit": "last_page_visit",
+    "how_did_you_hear": "how_did_you_hear_about_us",
+    "use_case": "use_case",
+    "sales_cycle_length": "sales_cycle_length",
 }
 
 
