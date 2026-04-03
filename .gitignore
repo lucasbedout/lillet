@@ -1,0 +1,6 @@
+sync/.env
+sync/.env.local
+sync/.venv/
+data/
+*.xlsx
+__pycache__/
